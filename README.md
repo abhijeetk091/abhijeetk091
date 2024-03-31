@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on GPU graph related algorithms.
+- 🌱 I’m currently learning CUDA and CPP.
 <!--
 **abhijeetk091/abhijeetk091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
